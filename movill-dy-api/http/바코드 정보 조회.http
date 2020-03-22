@@ -1,0 +1,6 @@
+GET {{dy-url}}/v1/dy/qr/9999/2865458229569999
+Content-Type: application/json
+auth-token: c69e3804-6e2e-4fd3-9b82-c3e8dd2bb282
+login-user: ew0KICAidXNlcl9pZHgiOiAzNjkyLA0KICAibmFtZSI6ICJkb3VibGVza3NzIiwNCiAgIm5pY2tfbmFtZSI6ICJwb3dlciBtYW4iLA0KICAiYWdlIjogMzMsDQogICJzZXgiOiAiTSIsDQogICJhcHRfaWR4IjogOTk5OSwNCiAgImFwdF9uYW1lIjogIuuqqOu5jOyVhO2MjO2KuCIsDQogICJkb25nIjogIjHrj5kiLA0KICAiaG8iOiAiMe2YuCINCn0
+
+###

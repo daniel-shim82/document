@@ -1,0 +1,5 @@
+GET {{multi-url}}/rest/block/list
+Content-Type: application/json
+auth-token: 085bde34-41c6-4e8c-aa70-33e0b2c7f933
+
+###
